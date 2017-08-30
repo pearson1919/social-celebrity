@@ -81,9 +81,7 @@ opacity: 0.1;    /* Modern browsers */
 	background-size:100% auto;
 	background-repeat:no-repeat;
 }
-a.logo:hover {
-	margin-top:35px;
-}
+
 a.logo:active {
 	margin-top:37px;
 	opacity:0.8;
