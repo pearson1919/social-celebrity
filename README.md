@@ -1,2 +1,2 @@
 # social_celebrity
-Duplicate site for someone else
+Duplicate site of follows.com
