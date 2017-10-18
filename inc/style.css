@@ -1218,21 +1218,21 @@ a.cta2:hover {
 }
 .twgrey {
 	background-position:0px 16px !important;
-	background:url(img/twsprite.png);
+	background:url(../img/twsprite.png);
 	height:16px;
 	width:16px;
 	display:inline-block;
 	margin-right:10px;
 }
 .twblue {
-	background:url(/img/twsprite.png);
+	background:url(../img/twsprite.png);
 	height:16px;
 	width:16px;
 	display:inline-block;
 	margin-right:10px;
 }
 .fbgrey {
-	background:url(/img/fbsprite.png);
+	background:url(../img/fbsprite.png);
 	height:16px;
 	width:16px;
 	display:inline-block;
@@ -1240,7 +1240,7 @@ a.cta2:hover {
 }
 .fbblue {
 	background-position:0px 16px !important;
-	background:url(/img/fbsprite.png);
+	background:url(../img/fbsprite.png);
 	height:16px;
 	width:16px;
 	display:inline-block;
@@ -1270,7 +1270,7 @@ a.cta2:hover {
     text-align: center;
 }
 .checkmark {
-	background:url(/img/check.png);
+	background:url(../img/check.png);
 	width:16px;
 	height:12px;
 	display:inline-block;
@@ -1417,7 +1417,7 @@ a.cta2:hover {
 	height:32px;
     margin-left: 41px;
     margin-top: 22px;
-    background:url(/img/logos2.png);
+    background:url(../img/logos2.png);
 }
 .navactive {
 	opacity:1 !important;
@@ -1554,7 +1554,7 @@ a.cta2:hover {
 	text-decoration:underline;
 }
 .thumbs {
-	background:url(/img/thumbs.png);
+	background:url(../img/thumbs.png);
     display: inline-block;
     height: 21px;
     margin-right: 13px;
@@ -1563,7 +1563,7 @@ a.cta2:hover {
     width: 21px;
 }
 .tothetop {
-	background:url(/img/tothetop.png);
+	background:url(../img/tothetop.png);
     display: inline-block;
     height: 21px;
     margin-right: 13px;
@@ -1959,7 +1959,7 @@ a.cta2:hover {
 }
 
 .iggrey {
-	background:url(/img/igsprite.png);
+	background:url(../img/igsprite.png);
 	height:16px;
 	width:16px;
 	display:inline-block;
@@ -1967,7 +1967,7 @@ a.cta2:hover {
 }
 .igbrown {
 	background-position:0px 16px !important;
-	background:url(/img/igsprite.png);
+	background:url(../img/igsprite.png);
 	height:16px;
 	width:16px;
 	display:inline-block;
@@ -2311,12 +2311,12 @@ input[type="radio"] + label span {
     width:22px;
     height:22px;
     vertical-align:middle;
-    background:url(/img/bullet.png) left top no-repeat;
+    background:url(../img/bullet.png) left top no-repeat;
     background-position: 0px -22px;
     cursor:pointer;
 }
 input[type="radio"]:checked + label span {
-    background:url(/img/bullet.png) top no-repeat;
+    background:url(../img/bullet.png) top no-repeat;
     background-position: 0px 0px;
 }
 #c1 {
@@ -2337,7 +2337,7 @@ input[type="radio"]:checked + label span {
     top: 2px;
 }
 .award {
-	background:url(/img/award.png);
+	background:url(../img/award.png);
 	background-repeat:no-repeat;
 	width:290px;
 	height:38px;
@@ -2368,7 +2368,7 @@ input[type="radio"]:checked + label span {
 }
 
 .award2 {
-	background:url(/img/award.png);
+	background:url(../img/award.png);
 	background-repeat:no-repeat;
 	width:290px;
 	height:38px;
@@ -2384,7 +2384,7 @@ input[type="radio"]:checked + label span {
     
 }
 .award3 {
-	background:url(/img/award.png);
+	background:url(../img/award.png);
 	background-repeat:no-repeat;
 	width:244px;
 	height:38px;
