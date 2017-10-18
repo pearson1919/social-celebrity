@@ -35,6 +35,62 @@ a {text-decoration:none}
     z-index: 99;
 }
 
+#autolikes{
+    width: 892px;
+    margin-left: 32px;
+    height: 74px;
+    background: #fdf9ec;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(253, 249, 236);
+    border: 1px solid #ffdda7;
+    border-radius: 15px;
+    float: left;
+    margin-top: 35px;
+    line-height: 74px;
+    padding-left: 27px;
+    font-size: 18px;
+    color: #666a82 !important;
+    display: none;
+    margin-bottom: -8px;
+}
+
+#subscription{
+    width: 889px;
+    padding-left: 30px;
+    height: 74px;
+    background: #f6fbf4;
+    float: left;
+    margin-left: 32px;
+    margin-top: 34px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border: 1px solid #cee8bf;
+}
+
+input[type="radio"]:checked + label span {
+    background: url(../img/bullet.png) top no-repeat;
+    background-position: 0px 0px;
+}
+
+input[type="radio"] + label span {
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    vertical-align: middle;
+    background: url(../img/bullet.png) left top no-repeat;
+    background-position: 0px -22px;
+    cursor: pointer;
+}
+
 .myPopBg {
 	padding:0px;
 	box-sizing:border-box;
